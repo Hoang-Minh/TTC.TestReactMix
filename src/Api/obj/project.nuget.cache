@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "R6WKUcOtN/XFoY5Te7UXiFgUHinjX2qSf9+ARvpSEG/j37b0uzqsmUdWXYrywsItdGbHeL0/5WkCEvAZdJH40Q==",
+  "success": true,
+  "projectFilePath": "C:\\TTC.TestReactMix\\src\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.20\\microsoft.aspnetcore.spaservices.extensions.6.0.20.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\ocitmnguyen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
